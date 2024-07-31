@@ -33,7 +33,7 @@ Upload is done via rclone. By adding your data you are ok with
 - adding it under the Database Contents License to the BattyBirdNET-ML database under the Open Database License. 
 - you made sure that you have the rights to do so, e.g. if you recorded the data yourself or the data is under a license that allows to add it.
 - You made sure the calls are very likely made by the species you attribute it too.
-- you checked to make sure (to a reasonable level of effort) that no humans were accidentally recorded. The easiest way to achieve this is to use a high-pass on the data only adding sounds over e.g. 10kHz.
+- you checked to make sure (to a reasonable level of effort) that no humans were accidentally recorded. The easiest way to achieve this is to use a high-pass on the data only adding sounds over e.g. 10kHz (e.g. using sox sinc 10k).
 
 The BattyBirdNET-ML database is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/. The scripts and code for processing the data are under the Apache 2.0 License.
 
