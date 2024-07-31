@@ -1,7 +1,8 @@
 # BattyBirdNET-Data
-Scripts and info on ML data set collection, refinement and use.
+This projects targets to collect and publicly provide the best data for machine learning purposes for European bats.
 
-This projects targets to collect and publicly provide the best data for machine learning purposes for European bats. Thank you for being part of this data collection effort!
+Thank you for being part of this data collection effort!
+
 The BattyBirdNET-ML database is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/. The scripts and code for processing the data are under the Apache 2.0 License.
 
 To reach that aim try to:
