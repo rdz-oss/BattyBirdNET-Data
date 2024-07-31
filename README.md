@@ -44,7 +44,7 @@ Thank you and best regards,
 
 Dr. Richard Zinck
 
-battybirdnet@mailbox.org
+battybirdnet - at - mailbox.org
 
 https://www.researchgate.net/profile/Richard-Zinck
 
