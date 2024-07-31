@@ -1,5 +1,5 @@
 # BattyBirdNET-Data
-This projects targets to collect and publicly provide the best data for machine learning purposes for European/UK bats.
+This projects targets to collect and publicly provide the best data for machine learning purposes for European/UK/Nordic bats.
 
 Thank you for being part of this data collection effort! To reach that aim try to:
 
