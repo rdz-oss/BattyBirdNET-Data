@@ -4,7 +4,7 @@ This projects targets to collect and publicly provide the best data for machine 
 Please cite as:
 ``` bibtex
 @misc{Zinck2024,
-  author = {Zinck, R.D., et al.},
+  author = {Zinck, R.D., Wilton-Jones, Peter, et al.},
   title = {BattyBirdNET Data},
   year = {2024},
   publisher = {GitHub/Open data},
