@@ -1,9 +1,7 @@
 # BattyBirdNET-Data
 This projects targets to collect and publicly provide the best data for machine learning purposes for European bats.
 
-Thank you for being part of this data collection effort!
-
-To reach that aim try to:
+Thank you for being part of this data collection effort! To reach that aim try to:
 
 - Use your best recordings for each species
 - One species in a recording only
