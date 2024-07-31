@@ -41,7 +41,6 @@ Please cite as:
 
 Thank you and best regards.
 
-&nbsp;
 
 Dr. Richard Zinck
 
