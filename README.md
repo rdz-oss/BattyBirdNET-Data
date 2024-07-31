@@ -39,7 +39,7 @@ Please cite as:
 
 &nbsp;
 
-Thank you and best regards.
+Thank you and best regards,
 
 
 Dr. Richard Zinck
