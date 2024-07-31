@@ -16,7 +16,7 @@ To reach that aim try to:
     - battybirdnet-staging/YOUR_NAME/Latin name_Common name social
     - battybirdnet-staging/YOUR_NAME/Latin name_Common name buzz
       
-- optional: Metadata in GUANO form embedded in the files
+- ideally: Metadata in GUANO form embedded in the files
 
 we separate echo location from calls that include social elements (see above convention) or feeding buzzes.
 Upload is done via rclone. By adding your data you are ok with
