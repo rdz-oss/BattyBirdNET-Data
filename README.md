@@ -28,7 +28,7 @@ The BattyBirdNET-ML database is made available under the Open Database License: 
 Please cite as:
 ``` bibtex
 @misc{Zinck2024,
-  author = {Zinck, R.D. et al.},
+  author = {Zinck, R.D., et al.},
   title = {BattyBirdNET Data},
   year = {2024},
   publisher = {GitHub/Open data},
@@ -61,6 +61,11 @@ https://www.researchgate.net/profile/Richard-Zinck
 &nbsp;
 &nbsp;
 &nbsp;
+
+### Acknowledgements
+
+Thanks to all contributors for making this great:
+- Peter Wilton-Jones, UK 
 
 
 
