@@ -24,6 +24,18 @@ Upload is done via rclone. By adding your data you are ok with
 - you checked to make sure (to a reasonable level of effort) that no humans were accidentally recorded. The easiest way to achieve this is to use a high-pass on the data only adding sounds over e.g. 10kHz.
 
 The BattyBirdNET-ML database is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/. The scripts and code for processing the data are under the Apache 2.0 License.
+please cite as:
+``` bibtex
+@misc{Zinck2024,
+  author = {Zinck, R.D. et al.},
+  title = {BattyBirdNET Data},
+  year = {2024},
+  publisher = {GitHub/Open data},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/rdz-oss/BattyBirdNET-Data }}
+}
+```
+
 
 &nbsp;
 
